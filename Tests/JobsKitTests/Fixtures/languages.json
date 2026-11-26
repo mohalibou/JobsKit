@@ -1,0 +1,20 @@
+{
+  "res": [
+    {
+      "id": "language-en_US",
+      "displayName": "English - US",
+      "name": "English - US",
+      "code": "en_US",
+      "uniqueKey": "language-en_US",
+      "name_en_US": "English - US"
+    },
+    {
+      "id": "language-en_SG",
+      "displayName": "English - Singapore",
+      "name": "English - Singapore",
+      "code": "en_SG",
+      "uniqueKey": "language-en_SG",
+      "name_en_US": "English - Singapore"
+    }
+  ]
+}

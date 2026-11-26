@@ -1,0 +1,28 @@
+{
+  "res": [
+    {
+      "id": "postLocation-EXL",
+      "name": "Exampleland",
+      "displayName": "Exampleland",
+      "titleName": "Exampleland",
+      "uniqueKey": "postLocation-EXL",
+      "code": "EXL",
+      "level": 1,
+      "urlName": "Exampleland",
+      "name_en_US": "Exampleland"
+    },
+    {
+      "id": "postLocation-SPF",
+      "name": "Springfield, Example State, Exampleland",
+      "displayName": "Springfield, Example State, Exampleland",
+      "titleName": "Springfield",
+      "uniqueKey": "postLocation-SPF",
+      "code": "SPF",
+      "level": 5,
+      "urlName": "Springfield, Example State, Exampleland",
+      "name_en_US": "Springfield",
+      "city": "Springfield",
+      "stateProvince": "Example State"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "res": {
+    "searchResults": [
+      {
+        "id": "100000001-0001",
+        "jobSummary": "Summary text.",
+        "locations": [
+          {
+            "postLocationId": "postLocation-EX1",
+            "city": "",
+            "stateProvince": "",
+            "countryName": "Exampleland",
+            "metro": "",
+            "region": "",
+            "name": "Example Store",
+            "countryID": "iso-country-EXL",
+            "level": 6
+          }
+        ],
+        "positionId": "100000001",
+        "postingDate": "Jan 1, 2026",
+        "postingTitle": "Example Engineer",
+        "localeInfo": {
+          "languageCode": "en_US",
+          "dateFormat": "MMM D, YYYY",
+          "defaultLocaleCode": "en-us"
+        },
+        "postDateInGMT": "2026-01-15T12:00:00.123Z",
+        "transformedPostingTitle": "example-engineer",
+        "reqId": "100000001-0001",
+        "managedPipelineRole": false,
+        "standardWeeklyHours": 40,
+        "team": {
+          "teamName": "Apple Retail",
+          "teamID": "teamsAndSubTeams-APPST",
+          "teamCode": "APPST"
+        },
+        "type": "REQ",
+        "homeOffice": false,
+        "jobPositionId": "PIPE-100000001",
+        "isMultiLocation": false,
+        "postExternal": true
+      },
+      {
+        "id": "PIPE-100000002",
+        "jobSummary": "Summary text.",
+        "locations": [
+          {
+            "postLocationId": "postLocation-EXL",
+            "city": "",
+            "stateProvince": "",
+            "countryName": "Exampleland",
+            "metro": "",
+            "region": "",
+            "name": "Exampleland",
+            "countryID": "iso-country-EXL",
+            "level": 1
+          }
+        ],
+        "positionId": "100000002",
+        "postingDate": "Jan 1, 2026",
+        "postingTitle": "Example Specialist",
+        "localeInfo": {
+          "languageCode": "en_US",
+          "dateFormat": "MMM D, YYYY",
+          "defaultLocaleCode": "en-us"
+        },
+        "postDateInGMT": "2026-01-16T09:00:00.123456789Z",
+        "transformedPostingTitle": "example-specialist",
+        "reqId": "PIPE-100000002",
+        "managedPipelineRole": true,
+        "standardWeeklyHours": 40,
+        "team": {
+          "teamName": "Apple Retail",
+          "teamID": "teamsAndSubTeams-APPST",
+          "teamCode": "APPST"
+        },
+        "type": "PIPE",
+        "homeOffice": false,
+        "jobPositionId": "PIPE-100000002",
+        "isMultiLocation": false,
+        "postExternal": true
+      },
+      {
+        "id": "100000003-0003",
+        "jobSummary": "Summary text.",
+        "locations": [
+          {
+            "postLocationId": "postLocation-EXL",
+            "city": "",
+            "stateProvince": "",
+            "countryName": "Exampleland",
+            "metro": "",
+            "region": "",
+            "name": "Exampleland",
+            "countryID": "iso-country-EXL",
+            "level": 1
+          }
+        ],
+        "positionId": "100000003",
+        "postingDate": "Jan 1, 2026",
+        "postingTitle": "Example Analyst",
+        "localeInfo": {
+          "languageCode": "en_US",
+          "dateFormat": "MMM D, YYYY",
+          "defaultLocaleCode": "en-us"
+        },
+        "postDateInGMT": "2026-01-17T15:45:30.500Z",
+        "transformedPostingTitle": "example-analyst",
+        "reqId": "100000003-0003",
+        "managedPipelineRole": false,
+        "standardWeeklyHours": 37.5,
+        "team": {
+          "teamName": "Hardware",
+          "teamID": "teamsAndSubTeams-HRDWR",
+          "teamCode": "HRDWR"
+        },
+        "type": "REQ",
+        "homeOffice": true,
+        "jobPositionId": "PIPE-100000003",
+        "isMultiLocation": false,
+        "postExternal": true
+      }
+    ],
+    "totalRecords": 3,
+    "talentLimitDetails": {},
+    "talentRolesInfoById": {}
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "res": {
+    "roles": null,
+    "products": [
+      {
+        "id": "productsAndServices-IAD",
+        "displayName": "Apple Ads",
+        "name": "Apple Ads",
+        "code": "IAD",
+        "uniqueKey": "productsAndServices-IAD",
+        "name_en_US": "Apple Ads"
+      },
+      {
+        "id": "productsAndServices-AIRPD",
+        "displayName": "AirPods",
+        "name": "AirPods",
+        "code": "AIRPD",
+        "uniqueKey": "productsAndServices-AIRPD",
+        "name_en_US": "AirPods"
+      }
+    ],
+    "jobLevels": null
+  }
+}

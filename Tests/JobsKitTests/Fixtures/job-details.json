@@ -1,0 +1,172 @@
+{
+  "res": {
+    "id": "REQ-100000004",
+    "type": "REQ",
+    "managedPipelineRole": false,
+    "reqId": "REQ-100000004",
+    "jobNumber": "100000004-0004",
+    "positionId": "100000004",
+    "postingTitle": "Example Lead",
+    "transformedPostingTitle": "example-lead",
+    "jobSummary": "jobSummary text.",
+    "description": "description text.",
+    "minimumQualifications": "minimumQualifications text.",
+    "preferredQualifications": "preferredQualifications text.",
+    "standardWeeklyHours": 40,
+    "postDateInGMT": "2026-01-20T08:30:00.250+00:00",
+    "postingDate": "Jan 20, 2026",
+    "longPostingDate": "2026-01-20T08:30:00.250+00:00",
+    "postingDateMeta": "2026-01-20",
+    "teamNames": [
+      "Apple Retail",
+      "Students",
+      "Support and Service"
+    ],
+    "locations": [
+      {
+        "id": "postLocation-EX2",
+        "name": "Example Mall",
+        "city": "Springfield",
+        "code": "EX2",
+        "stateProvince": "Example State",
+        "countryName": "Exampleland",
+        "countryID": "iso-country-EXL",
+        "zipCode": "00000",
+        "region": "Example Region",
+        "level": 6,
+        "active": true,
+        "postLocationCountryID": "postLocation-EXL",
+        "postingIdentifier": "0004",
+        "showPayAndBenefits": false,
+        "promotedOnLinkedIn": false
+      }
+    ],
+    "localeLocation": [
+      {
+        "id": "postLocation-EX2",
+        "name": "Example Mall",
+        "city": "Springfield",
+        "code": "EX2",
+        "stateProvince": "Example State",
+        "countryName": "Exampleland",
+        "countryID": "iso-country-EXL",
+        "zipCode": "00000",
+        "region": "Example Region",
+        "level": 6,
+        "active": true,
+        "postLocationCountryID": "postLocation-EXL",
+        "postingIdentifier": "0004",
+        "showPayAndBenefits": false,
+        "promotedOnLinkedIn": false
+      }
+    ],
+    "localeInfo": {
+      "languageCode": "en_US",
+      "dateFormat": "MMM D, YYYY",
+      "defaultLocaleCode": "en-us",
+      "locale": "en-us",
+      "data": "en_US",
+      "translation": "en-US"
+    },
+    "selectedLocale": "en_US",
+    "translationCd": "en_US",
+    "employmentType": "Standard",
+    "homeOffice": false,
+    "isFavorited": false,
+    "submitted": false,
+    "resubmitted": false,
+    "jobType": "RETAIL",
+    "roleLocationSelection": true,
+    "selectedLocation": {
+      "id": "postLocation-EX2",
+      "name": "Example Mall",
+      "city": "Springfield",
+      "code": "EX2",
+      "stateProvince": "Example State",
+      "countryName": "Exampleland",
+      "countryID": "iso-country-EXL",
+      "zipCode": "00000",
+      "region": "Example Region",
+      "level": 6,
+      "active": true,
+      "postLocationCountryID": "postLocation-EXL",
+      "postingIdentifier": "0004",
+      "showPayAndBenefits": false,
+      "promotedOnLinkedIn": false
+    },
+    "selfDisclosureConfig": {
+      "countryID": "iso-country-EXL",
+      "gender": true,
+      "ethnicity": true,
+      "veteranStatus": true,
+      "disability": false
+    },
+    "questionCategories": [
+      "applicationQuestion"
+    ],
+    "usaIndicator": false,
+    "uaeIndicator": false,
+    "pipelineType": null,
+    "localizations": {
+      "en_US": {}
+    },
+    "translations": {
+      "en_US": {}
+    },
+    "postLocationLocaleLanguage": {
+      "postLocation-EX2": [
+        {
+          "code": "en_US",
+          "name": "English - US",
+          "translation": "en-US",
+          "direction": "ltr"
+        }
+      ]
+    },
+    "localeLanguages": [
+      {
+        "code": "en_US",
+        "name": "English - US",
+        "translation": "en-US",
+        "direction": "ltr"
+      }
+    ],
+    "postingPostLocationData": {},
+    "postingFooters": [
+      {
+        "postLocationId": "postLocation-EX2",
+        "localizations": {
+          "en_US": [
+            {
+              "displayOrder": 4,
+              "name": "Application Deadline",
+              "content": "Application Deadline text."
+            },
+            {
+              "displayOrder": 3,
+              "name": "Accessibility",
+              "content": "Accessibility text."
+            },
+            {
+              "displayOrder": 2,
+              "name": "EEO Statement",
+              "content": "EEO Statement text."
+            },
+            {
+              "displayOrder": 1,
+              "name": "Pay & Benefits",
+              "label": "Pay & Benefits",
+              "content": "The base pay range for this role is between $20.00 and $30.00/hr, and more."
+            }
+          ]
+        }
+      }
+    ],
+    "talentLimitDetails": {
+      "submissionCount": 0,
+      "limit": 0,
+      "thresholdReached": false,
+      "limitReached": false
+    }
+  }
+}

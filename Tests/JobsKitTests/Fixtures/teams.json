@@ -1,0 +1,68 @@
+{
+  "res": [
+    {
+      "id": "teamsAndSubTeams-MLAI",
+      "type": "Machine Learning and AI",
+      "teams": [
+        {
+          "id": "subTeam-AIMLDO",
+          "displayName": "Machine Learning and AI: AI and Machine Learning Data Operations",
+          "listTitle": "Machine Learning and AI",
+          "name": "AI and Machine Learning Data Operations",
+          "teamID": "teamsAndSubTeams-MLAI",
+          "teamName": "Machine Learning and AI",
+          "code": "AIMLDO",
+          "teamCode": "MLAI",
+          "uniqueKey": "teamsAndSubTeams-MLAI:subTeam-AIMLDO",
+          "subTeam_en_US": "AI and Machine Learning Data Operations",
+          "team_en_US": "Machine Learning and AI"
+        },
+        {
+          "id": "subTeam-CV",
+          "displayName": "Machine Learning and AI: Computer Vision",
+          "listTitle": "Machine Learning and AI",
+          "name": "Computer Vision",
+          "teamID": "teamsAndSubTeams-MLAI",
+          "teamName": "Machine Learning and AI",
+          "code": "CV",
+          "teamCode": "MLAI",
+          "uniqueKey": "teamsAndSubTeams-MLAI:subTeam-CV",
+          "subTeam_en_US": "Computer Vision",
+          "team_en_US": "Machine Learning and AI"
+        }
+      ]
+    },
+    {
+      "id": "teamsAndSubTeams-HRDWR",
+      "type": "Hardware",
+      "teams": [
+        {
+          "id": "subTeam-ACT",
+          "displayName": "Hardware: Acoustic Technologies",
+          "listTitle": "Hardware",
+          "name": "Acoustic Technologies",
+          "teamID": "teamsAndSubTeams-HRDWR",
+          "teamName": "Hardware",
+          "code": "ACT",
+          "teamCode": "HRDWR",
+          "uniqueKey": "teamsAndSubTeams-HRDWR:subTeam-ACT",
+          "subTeam_en_US": "Acoustic Technologies",
+          "team_en_US": "Hardware"
+        },
+        {
+          "id": "subTeam-ADD",
+          "displayName": "Hardware: Analog and Digital Design",
+          "listTitle": "Hardware",
+          "name": "Analog and Digital Design",
+          "teamID": "teamsAndSubTeams-HRDWR",
+          "teamName": "Hardware",
+          "code": "ADD",
+          "teamCode": "HRDWR",
+          "uniqueKey": "teamsAndSubTeams-HRDWR:subTeam-ADD",
+          "subTeam_en_US": "Analog and Digital Design",
+          "team_en_US": "Hardware"
+        }
+      ]
+    }
+  ]
+}

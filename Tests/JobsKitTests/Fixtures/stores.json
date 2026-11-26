@@ -1,0 +1,18 @@
+{
+  "res": [
+    {
+      "city": "Springfield",
+      "locationId": "postLocation-R900",
+      "name": "Example Plaza",
+      "showPayAndBenefits": true,
+      "currentOpening": false
+    },
+    {
+      "city": "Shelbyville",
+      "locationId": "postLocation-R901",
+      "name": "Example Center",
+      "showPayAndBenefits": false,
+      "currentOpening": true
+    }
+  ]
+}
